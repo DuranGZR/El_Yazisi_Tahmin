@@ -4,10 +4,6 @@ Bu proje, **MNIST el yazısı rakam veri setini** kullanarak bir **derin öğren
 
 ---
 
-## 📂 Proje Yapısı
-
-
----
 
 ## 📊 Veri Kümesi ve Ön İşleme
 
